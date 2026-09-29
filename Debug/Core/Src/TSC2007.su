@@ -1,0 +1,11 @@
+../Core/Src/TSC2007.c:54:13:delay_us	24	static
+../Core/Src/TSC2007.c:65:13:I2C_WriteByte	24	static
+../Core/Src/TSC2007.c:77:13:I2C_ReadBytes	24	static
+../Core/Src/TSC2007.c:90:6:TSC2007_EXTI_Callback	8	static
+../Core/Src/TSC2007.c:108:6:TSC2007_Init	24	static
+../Core/Src/TSC2007.c:138:6:TSC2007_RegisterCallback	16	static
+../Core/Src/TSC2007.c:147:6:TSC2007_IsTouched	4	static
+../Core/Src/TSC2007.c:152:6:TSC2007_ClearFlag	4	static
+../Core/Src/TSC2007.c:172:10:TSC2007_Command	24	static
+../Core/Src/TSC2007.c:211:6:TSC2007_ReadTouch	32	static
+../Core/Src/TSC2007.c:254:17:TSC2007_GetPoint	32	static

@@ -1,0 +1,3 @@
+../Core/Src/screen.c:5:6:DrawScreen	32	static
+../Core/Src/screen.c:86:6:DrawFrame	40	static
+../Core/Src/screen.c:171:6:CheckScreenPress	32	static
