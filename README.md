@@ -31,7 +31,3 @@ An interactive embedded visualization application developed in C for the STM32 N
 3. Connect your STM32 Nucleo-L152RE board.
 4. Ensure the ILI9341, TSC2007, and rotary encoder are wired to the correct SPI, I2C, and Timer GPIO pins as defined in the configuration files.
 5. Build the project and flash the firmware to the microcontroller.
-
-## License
-
-[Add your chosen license here, e.g., MIT, GPL, etc.]
